@@ -1,48 +1,29 @@
 time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_reach_goal
-1/25/2025 19:00,1/26/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,72,50,9
-1/24/2025 19:00,1/25/2025 9:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,61,46,15
-1/24/2025 18:30,1/24/2025 19:30,Cruise Missiles,Black Sea,Odesa oblast,Unknown,2,2,
-1/23/2025 21:00,1/24/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,Unknown,58,25,27
-1/22/2025 19:00,1/23/2025 9:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,92,57,27
 1/23/2025 4:00,1/23/2025 4:30,Ballistic Missiles,Voronezh oblast,Zaporizhzhia,Unknown,4,0,
-1/21/2025 19:00,1/22/2025 10:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Crimea and Bryansk oblast and Kursk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,99,65,30
-1/20/2025 20:00,1/21/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Oryol oblast and Millerovo,Ukraine,Unknown,131,72,59
 1/20/2025 20:00,1/21/2025 9:00,Ballistic Missiles,Voronezh oblast,Ukraine,Unknown,4,0,
-1/19/2025 19:00,1/20/2025 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,141,93,45
 1/19/2025 19:00,1/20/2025 8:00,Ballistic Missiles,Kursk oblast,Sumy oblast,Unknown,1,0,
 1/20/2025,1/20/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
-1/18/2025 20:00,1/19/2025 9:00,Loitering Munition (Kamikaze Drones),Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,61,43,15
-1/17/2025 19:00,1/18/2025 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Bryansk oblast and Millerovo,Ukraine,Unknown,39,24,14
-1/16/2025 19:00,1/17/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,50,33,9
 1/16/2025 19:00,1/17/2025 9:00,Ballistic Missiles,Bryansk oblast and Voronezh oblast,Kyiv oblast,Unknown,4,2,
 1/16/2025 19:00,1/17/2025 9:00,Ballistic Missiles,Rostov oblast,Ukraine,Unknown,2,0,
-1/15/2025 20:00,1/16/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,55,34,18
 1/15/2025 6:00,1/15/2025 8:00,Cruise Missiles,Belgorod oblast,Ukraine,Unknown,4,4,
 1/15/2025 6:00,1/15/2025 8:00,Cruise Missiles,Tula oblast,Ukraine,Tu-22M3,7,0,
 1/15/2025 6:00,1/15/2025 8:00,Cruise Missiles,Volgograd oblast,Ukraine,Tu-95MS,27,23,
 1/15/2025 6:00,1/15/2025 8:00,Cruise Missiles,Black Sea,Ukraine,Navi,4,3,
 1/15/2025 6:00,1/15/2025 8:00,Ballistic Missiles,Belgorod oblast,Ukraine,Unknown,1,0,
-1/14/2025 21:00,1/15/2025 2:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,74,47,27
 1/15/2025,1/15/2025,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
 1/15/2025,1/15/2025,Reconnaissance UAVs,Unknown,south,Unknown,3,3,
 1/15/2025,1/15/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 1/15/2025,1/15/2025,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,7,7,
-1/13/2025 18:30,1/14/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,80,58,21
 1/14/2025,1/14/2025,Cruise Missiles,Unknown,Odesa oblast,Unknown,2,0,
 1/14/2025,1/14/2025,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,2,2,
-1/12/2025 19:00,1/13/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,110,78,31
 1/13/2025,1/13/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
-1/11/2025 18:00,1/12/2025 9:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,94,60,34
 1/12/2025,1/12/2025,Reconnaissance UAVs,Unknown,south,Unknown,3,3,
 1/12/2025,1/12/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 1/12/2025,1/12/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 1/12/2025,1/12/2025,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,8,8,
 1/12/2025,1/12/2025,Ballistic Missiles,Crimea,Kherson oblast,Unknown,1,1,
-1/10/2025 20:00,1/11/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,74,47,27
-1/9/2025 20:30,1/10/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,72,33,33
 1/10/2025,1/10/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 1/9/2025 14:10,1/9/2025 14:10,Cruise Missiles,Unknown,Kryvyi Rih,Unknown,3,3,
-1/8/2025 19:30,1/9/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,70,46,24
 1/9/2025,1/9/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 1/9/2025,1/9/2025,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
 1/9/2025,1/9/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
@@ -50,33 +31,22 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 1/9/2025,1/9/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 1/9/2025,1/9/2025,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,7,7,
 1/9/2025,1/9/2025,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,1,1,
-1/7/2025 19:30,1/8/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,Unknown,64,41,18
-1/6/2025 19:30,1/7/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Millerovo,Ukraine,Unknown,38,28,7
 1/5/2025 18:00,1/6/2025 9:00,Cruise Missiles,south,Mykolaiv oblast,Unknown,2,2,
-1/5/2025 18:00,1/6/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,128,79,49
-1/4/2025 19:00,1/5/2025 9:00,Loitering Munition (Kamikaze Drones),Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,103,61,42
 1/5/2025,1/5/2025,Reconnaissance UAVs,Unknown,south,Unknown,4,4,
 1/5/2025,1/5/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 1/5/2025,1/5/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 1/5/2025,1/5/2025,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,10,10,
-1/4/2025 11:00,1/4/2025 20:00,Loitering Munition (Kamikaze Drones),north-east,Ukraine,Unknown,30,14,16
-1/3/2025 19:00,1/4/2025 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,Unknown,81,34,47
 1/4/2025,1/4/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 1/4/2025,1/4/2025,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
 1/4/2025,1/4/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 1/4/2025,1/4/2025,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,7,7,
 1/3/2025 12:00,1/3/2025 20:00,Cruise Missiles,Unknown,Dnipropetrovsk oblast,Unknown,3,3,
-1/3/2025 12:00,1/3/2025 20:00,Loitering Munition (Kamikaze Drones),north-east,Ukraine,Unknown,32,13,19
 1/3/2025 12:00,1/3/2025 20:00,Ballistic Missiles,Unknown,Chernihiv oblast,Unknown,3,0,
 1/3/2025 12:00,1/3/2025 20:00,Surface-to-Air Missiles (SAM),Unknown,Kursk oblast,Unknown,5,0,
-1/2/2025 21:00,1/3/2025 9:00,Loitering Munition (Kamikaze Drones),Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,93,60,26
-1/1/2025 19:00,1/2/2025 8:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,Unknown,72,47,24
 1/2/2025,1/2/2025,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 1/2/2025,1/2/2025,Reconnaissance UAVs,Unknown,south,Unknown,3,3,
-12/31/2024 20:30,1/1/2025 9:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Crimea and Bryansk oblast and Oryol oblast,Ukraine,Unknown,111,63,46
 1/1/2025,1/1/2025,Reconnaissance UAVs,Unknown,south,Unknown,3,3,
 1/1/2025,1/1/2025,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
-12/30/2024 20:30,12/31/2024 12:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Bryansk oblast and Millerovo,Ukraine,Unknown,40,16,24
 12/30/2024 7:20,12/31/2024 8:20,Cruise Missiles,Belgorod oblast,Kyiv oblast and Sumy oblast,Unknown,6,5,
 12/30/2024 7:20,12/31/2024 8:20,Hypersonic Missiles,Tula oblast,Kyiv oblast and Sumy oblast,MiG-31K,1,1,
 12/30/2024 7:20,12/31/2024 8:20,Cruise Missiles,Tula oblast,Kyiv oblast and Sumy oblast,Tu-22M3,8,0,
@@ -88,29 +58,20 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 12/31/2024,12/31/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 12/28/2024 19:00,12/29/2024 9:00,Loitering Munition (Kamikaze Drones),Crimea,Mykolaiv oblast,Unknown,10,9,
 12/28/2024 19:00,12/29/2024 9:00,Surface-to-Air Missiles (SAM),Belgorod oblast,Sumy oblast and Kursk oblast,Unknown,6,0,
-12/27/2024 23:00,12/28/2024 8:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk,Mykolaiv oblast,Unknown,16,15,11
-12/26/2024 19:00,12/27/2024 9:00,Loitering Munition (Kamikaze Drones),Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,24,13,11
 12/26/2024 19:00,12/27/2024 9:00,Ballistic Missiles,Kursk oblast and Voronezh oblast,Ukraine,Unknown,2,0,
-12/25/2024 19:00,12/26/2024 8:30,Loitering Munition (Kamikaze Drones),Oryol oblast and Millerovo,Ukraine,Unknown,31,20,11
-12/24/2024 14:00,12/25/2024 12:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,106,54,52
 12/25/2024 5:00,12/25/2024 10:00,Cruise Missiles,Belgorod oblast,Ukraine,Unknown,4,4,
 12/25/2024 5:00,12/25/2024 10:00,Cruise Missile Combinations,Unknown,Ukraine,Tu-95MS and Navi,62,55,
 12/25/2024 5:00,12/25/2024 10:00,Ballistic Missiles,Voronezh oblast,Ukraine,Unknown,2,0,
 12/25/2024 5:00,12/25/2024 10:00,Surface-to-Air Missiles (SAM),Belgorod oblast,Ukraine,Unknown,10,0,
-12/23/2024 22:00,12/24/2024 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Bryansk oblast and Millerovo,Ukraine,Unknown,60,36,23
 12/24/2024,12/24/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 12/24/2024,12/24/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 12/24/2024,12/24/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,3,3,
-12/22/2024 22:00,12/23/2024 9:00,Loitering Munition (Kamikaze Drones),Bryansk oblast and Oryol oblast,Ukraine,Unknown,72,47,25
 12/23/2024,12/23/2024,Reconnaissance UAVs,Unknown,south,Unknown,3,3,
 12/23/2024,12/23/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
-12/21/2024 19:00,12/22/2024 10:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo and Berdiansk,Ukraine,Unknown,103,52,44
-12/20/2024 19:00,12/21/2024 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo and Berdiansk,Ukraine,Unknown,113,57,56
 12/20/2024 19:00,12/21/2024 9:00,Surface-to-Air Missiles (SAM),Donetsk oblast,Poltava oblast,Unknown,1,0,
 12/21/2024,12/21/2024,Ballistic Missiles,Crimea,Kherson oblast,Unknown,1,0,
 12/20/2024 7:00,12/20/2024 9:30,Ballistic Missiles,Bryansk oblast and Voronezh oblast,Kyiv,Unknown,5,5,
 12/19/2024 19:00,12/20/2024 9:30,Cruise Missiles,Kursk oblast,Ukraine,Unknown,1,0,
-12/19/2024 19:00,12/20/2024 9:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,65,40,20
 12/19/2024 19:00,12/20/2024 9:30,Ballistic Missiles,Rostov oblast,Ukraine,Unknown,1,0,
 12/20/2024,12/20/2024,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
 12/20/2024,12/20/2024,Cruise Missiles,Black Sea,Odesa oblast,Unknown,2,0,2
@@ -118,18 +79,12 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 12/20/2024,12/20/2024,Reconnaissance UAVs,Unknown,south,Unknown,3,3,
 12/20/2024,12/20/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,1,1,
 12/18/2024 20:00,12/19/2024 8:30,Cruise Missiles,Kursk oblast,Ukraine,Unknown,1,0,
-12/18/2024 20:00,12/19/2024 8:30,Loitering Munition (Kamikaze Drones),Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,85,45,40
 12/18/2024 20:00,12/19/2024 8:30,Ballistic Missiles,Crimea and Rostov oblast,Ukraine,Unknown,2,0,
 12/19/2024,12/19/2024,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
 12/19/2024,12/19/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 12/19/2024,12/19/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,2,2,
-12/17/2024 19:00,12/18/2024 9:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,81,51,30
 12/18/2024,12/18/2024,Ballistic Missiles,Crimea,Kherson oblast,Unknown,1,0,
-12/16/2024 23:00,12/17/2024 12:00,Loitering Munition (Kamikaze Drones),Bryansk oblast and Oryol oblast,Ukraine,Unknown,31,20,10
-12/16/2024 1:00,12/16/2024 8:30,Loitering Munition (Kamikaze Drones),Bryansk oblast and Oryol oblast,Ukraine,Unknown,49,27,19
-12/14/2024 19:00,12/15/2024 8:30,Loitering Munition (Kamikaze Drones),Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,108,56,49
 12/14/2024 19:00,12/15/2024 8:30,Surface-to-Air Missiles (SAM),Unknown,Ukraine,Unknown,1,0,
-12/13/2024 19:00,12/14/2024 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,132,58,72
 12/14/2024,12/14/2024,Reconnaissance UAVs,Unknown,south,Unknown,5,5,
 12/14/2024,12/14/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 12/14/2024,12/14/2024,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
@@ -138,57 +93,39 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 12/13/2024 7:00,12/13/2024 10:00,Hypersonic Missiles,Tambov oblast,Ukraine,MiG-31K,4,0,
 12/13/2024 7:00,12/13/2024 10:00,Cruise Missile Combinations,Volgograd oblast and Black Sea and Voronezh oblast and Rostov oblast,Ukraine,Tu-95MS and Navi,86,80,
 12/13/2024 7:00,12/13/2024 10:00,Ballistic Missiles,Bryansk oblast,Ukraine,Unknown,2,1,
-12/12/2024 18:00,12/13/2024 5:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,193,80,105
 12/13/2024,12/13/2024,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
 12/11/2024 11:00,12/11/2024 11:00,Cruise Missiles,Sea of Azov,Dnipropetrovsk oblast,Unknown,2,2,
 12/10/2024,12/10/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 12/10/2024,12/10/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 12/8/2024 19:30,12/9/2024 8:00,Cruise Missiles,Black Sea,Odesa oblast,Unknown,2,2,
-12/8/2024 19:30,12/9/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Oryol oblast,Ukraine,Unknown,37,18,18
-12/7/2024 20:30,12/8/2024 8:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,74,28,46
 12/6/2024 21:30,12/7/2024 8:30,Unknown Missile,Unknown,Sumy oblast,Unknown,1,0,
-12/6/2024 21:30,12/7/2024 8:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk,Ukraine,Unknown,14,7,6
-12/5/2024 20:00,12/6/2024 7:00,Loitering Munition (Kamikaze Drones),Oryol oblast,Ukraine,Unknown,53,32,16
 12/6/2024,12/6/2024,Ballistic Missiles,Unknown,Kherson oblast,Unknown,3,0,
-12/4/2024 20:00,12/5/2024 8:30,Loitering Munition (Kamikaze Drones),Kursk oblast and Oryol oblast,Ukraine,Unknown,44,30,12
 12/4/2024 20:00,12/5/2024 8:30,Ballistic Missiles,Rostov oblast,Dnipropetrovsk oblast,Unknown,2,0,
 12/5/2024,12/5/2024,Cruise Missiles,Unknown,Mykolaiv oblast,Unknown,2,2,
 12/3/2024 20:00,12/4/2024 9:00,Cruise Missiles,Kursk oblast,Ukraine,Unknown,1,0,
-12/3/2024 20:00,12/4/2024 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Oryol oblast and Millerovo,Ukraine,Unknown,50,29,18
 12/2/2024 20:00,12/3/2024 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,28,22,1
 12/2/2024 17:00,12/2/2024 20:00,Cruise Missiles,Unknown,Kryvyi Rih,Su-34 and Su-57,3,3,
-12/1/2024 19:00,12/2/2024 8:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,110,52,50
-11/30/2024 20:00,12/1/2024 9:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,Unknown,78,32,45
 11/29/2024 21:30,11/30/2024 9:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast,Ukraine,Unknown,10,8,1
-11/28/2024 18:30,11/29/2024 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,132,88,41
 11/29/2024,11/29/2024,Reconnaissance UAVs,Unknown,south,Unknown,3,3,
 11/29/2024,11/29/2024,Unknown Missile,Unknown,Mykolaiv oblast,Unknown,1,0,
 11/29/2024,11/29/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,4,4,
 11/29/2024,11/29/2024,Ballistic Missiles,Unknown,Kherson oblast,Unknown,1,0,
-11/27/2024 19:30,11/28/2024 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,97,35,62
 11/28/2024 5:00,11/28/2024 8:30,Cruise Missiles,Black Sea,Ukraine,Unknown,3,3,
 11/28/2024 5:00,11/28/2024 8:30,Cruise Missile Combinations,Volgograd oblast and Black Sea,Ukraine,Tu-95MS and Navi,85,76,
 11/28/2024 5:00,11/28/2024 8:30,Surface-to-Air Missiles (SAM),Belgorod oblast,Kharkiv oblast,Unknown,3,0,
-11/26/2024 19:30,11/27/2024 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,Unknown,89,36,48
-11/25/2024 19:30,11/26/2024 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,Unknown,188,76,95
 11/25/2024 19:30,11/26/2024 9:00,Ballistic Missiles,Kursk oblast and Voronezh oblast,Ukraine,Unknown,4,0,
 11/26/2024,11/26/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 11/26/2024,11/26/2024,Ballistic Missiles,Unknown,Odesa oblast,Unknown,1,0,
-11/24/2024 18:30,11/25/2024 11:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Crimea and Kursk oblast and Oryol oblast and Millerovo,Ukraine,Unknown,145,71,71
 11/25/2024,11/25/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 11/25/2024,11/25/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 11/25/2024,11/25/2024,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
 11/25/2024,11/25/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 11/25/2024,11/25/2024,Ballistic Missiles,Unknown,Odesa oblast,Unknown,2,1,
-11/24/2024 0:30,11/24/2024 9:00,Loitering Munition (Kamikaze Drones),Bryansk oblast and Oryol oblast,Ukraine,Unknown,73,50,19
-11/22/2024 1:30,11/22/2024 17:30,Loitering Munition (Kamikaze Drones),Oryol oblast,Ukraine,Unknown,114,64,41
 11/21/2024 5:00,11/21/2024 7:00,Hypersonic Missiles,Tambov oblast,Dnipro,MiG-31K,1,0,
 11/21/2024 5:00,11/21/2024 7:00,Cruise Missiles,Volgograd oblast,Dnipro,Tu-95MS,7,6,
 11/21/2024 5:00,11/21/2024 7:00,Intercontinental ballistic missile,Astrakhan oblast,Dnipro,Unknown,1,0,
 11/19/2024 19:30,11/20/2024 11:00,Cruise Missiles,Unknown,Dnipropetrovsk oblast and Chernihiv oblast and Sumy oblast,Unknown,5,2,
-11/19/2024 19:30,11/20/2024 11:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,Unknown,122,56,58
 11/19/2024 19:30,11/20/2024 11:00,Surface-to-Air Missiles (SAM),Belgorod oblast,Kharkiv oblast,Unknown,1,0,
-11/18/2024 19:30,11/19/2024 9:00,Loitering Munition (Kamikaze Drones),Crimea and Kursk oblast and Oryol oblast,Ukraine,Unknown,87,51,30
 11/19/2024,11/19/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 11/19/2024,11/19/2024,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
 11/18/2024 11:57,11/18/2024 11:57,Ballistic Missiles,Unknown,Odesa oblast,Unknown,1,1,
@@ -200,112 +137,79 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 11/18/2024,11/18/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 11/18/2024,11/18/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 11/18/2024,11/18/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,4,4,
-11/16/2024 20:00,11/17/2024 12:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,Unknown,90,42,41
 11/17/2024 5:30,11/17/2024 8:30,Cruise Missiles,Unknown,Ukraine,Unknown,5,5,
 11/17/2024 5:30,11/17/2024 8:30,Hypersonic Missiles,Unknown,Ukraine,10 x MiG-31K,8,7,
 11/17/2024 5:30,11/17/2024 8:30,Cruise Missiles,Unknown,Ukraine,2 x Tu-22M3,4,4,
 11/17/2024 5:30,11/17/2024 8:30,Cruise Missile Combinations,Unknown,Ukraine,16 x Tu-95MS and 7 x Tu-160 and 4 x Navi,101,85,
 11/17/2024 5:30,11/17/2024 8:30,Ballistic Missiles,Unknown,Ukraine,Unknown,1,0,
 11/17/2024 5:30,11/17/2024 8:30,Hypersonic Missiles,Unknown,Ukraine,Unknown,1,1,
-11/15/2024 20:30,11/16/2024 8:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,Unknown,83,53,30
 11/15/2024 20:30,11/16/2024 8:30,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,3,3,
 11/15/2024 20:30,11/16/2024 8:30,Surface-to-Air Missiles (SAM),Unknown,Kharkiv oblast,Unknown,1,0,
 11/14/2024 21:00,11/15/2024 8:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk,Odesa oblast,Unknown,29,25,
 11/14/2024 21:30,11/14/2024 22:00,Cruise Missiles,Black Sea,Odesa oblast,Unknown,2,1,
-11/13/2024 19:00,11/14/2024 8:30,Loitering Munition (Kamikaze Drones),Kursk oblast,Ukraine,Unknown,59,21,38
-11/12/2024 15:00,11/13/2024 10:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,Unknown,90,37,46
 11/13/2024 6:00,11/13/2024 8:00,Cruise Missiles,Caspian Sea,Ukraine,Tu-95MS,2,2,
 11/13/2024 6:00,11/13/2024 8:00,Ballistic Missiles,Voronezh oblast,Ukraine,Tu-95MS,2,2,
 11/13/2024 6:00,11/13/2024 8:00,Surface-to-Air Missiles (SAM),Kursk oblast,Sumy oblast,Unknown,2,0,
 11/11/2024 21:00,11/12/2024 11:00,Cruise Missiles,Kursk oblast,Chernihiv oblast,Unknown,2,0,
-11/11/2024 21:00,11/12/2024 11:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast,Ukraine,Unknown,110,46,60
 11/11/2024 21:00,11/12/2024 11:00,Surface-to-Air Missiles (SAM),Belgorod oblast,Kharkiv,Unknown,1,0,
 11/10/2024 20:00,11/11/2024 9:30,Cruise Missiles,Zaporizhzhia oblast,Ukraine,Unknown,2,2,
-11/10/2024 20:00,11/11/2024 9:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,Unknown,74,39,30
-11/9/2024 20:00,11/10/2024 9:30,Loitering Munition (Kamikaze Drones),"Primorsko-Akhtarsk and Chauda, Crimea and Bryansk oblast and Oryol oblast",Ukraine,,145,62,67
-11/8/2024 21:00,11/9/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Oryol oblast,Odesa oblast,Unknown,51,32,18
 11/7/2024 18:00,11/8/2024 9:00,Cruise Missiles,Belgorod oblast,Ukraine,Unknown,4,4,
-11/7/2024 18:00,11/8/2024 9:00,Loitering Munition (Kamikaze Drones),"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast and Oryol oblast",Ukraine,,92,62,26
 11/7/2024 18:00,11/8/2024 9:00,Ballistic Missiles,Rostov oblast,Ukraine,Unknown,1,0,
 11/8/2024,11/8/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 11/8/2024,11/8/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 11/8/2024,11/8/2024,Ballistic Missiles,Crimea,Mykolaiv oblast,Unknown,1,0,
-11/6/2024 21:00,11/7/2024 12:00,Loitering Munition (Kamikaze Drones),"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast and Oryol oblast",Ukraine,,106,74,25
 11/7/2024,11/7/2024,Reconnaissance UAVs,Unknown,south,Unknown,3,3,
 11/7/2024,11/7/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 11/7/2024,11/7/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 11/7/2024,11/7/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,10,10,
 11/5/2024 20:00,11/6/2024 7:30,Cruise Missiles,Black Sea,Odesa oblast,Unknown,2,0,
 11/5/2024 20:00,11/6/2024 7:30,Cruise Missiles,Black Sea,Odesa oblast,Unknown,1,0,
-11/5/2024 20:00,11/6/2024 7:30,Loitering Munition (Kamikaze Drones),"Primorsko-Akhtarsk and Chauda, Crimea and Bryansk oblast and Oryol oblast",Ukraine,,63,38,20
 11/6/2024,11/6/2024,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
 11/6/2024,11/6/2024,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
 11/6/2024,11/6/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,1,1,
 11/4/2024 20:00,11/5/2024 8:30,Cruise Missiles,Black Sea,Odesa oblast,Unknown,2,2,
-11/4/2024 20:00,11/5/2024 8:30,Loitering Munition (Kamikaze Drones),Kursk oblast and Bryansk oblast and Oryol oblast,Ukraine,Unknown,79,48,30
-11/3/2024 19:00,11/4/2024 8:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast,Ukraine,Unknown,80,50,27
 11/3/2024 19:00,11/4/2024 8:30,Ballistic Missiles,Rostov oblast,Dnipropetrovsk oblast,Unknown,1,0,
 11/2/2024 17:30,11/3/2024 9:00,Cruise Missiles,Kursk oblast,Ukraine,Unknown,1,1,
-11/2/2024 17:30,11/3/2024 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Bryansk oblast,Ukraine,Unknown,96,66,27
 11/1/2024 19:00,11/2/2024 11:00,Cruise Missiles,Belgorod oblast,Ukraine,Unknown,1,0,
-11/1/2024 19:00,11/2/2024 11:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Oryol oblast,Ukraine,Unknown,71,39,21
 11/2/2024,11/2/2024,Unknown UAV,Unknown,south,Unknown,1,1,
 10/31/2024 18:00,11/1/2024 8:00,Cruise Missiles,Black Sea,Odesa oblast,Unknown,3,1,2
-10/31/2024 18:00,11/1/2024 8:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Oryol oblast,Ukraine,Unknown,48,31,14
 11/1/2024,11/1/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 11/1/2024,11/1/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,1,1,
 11/1/2024,11/1/2024,Ballistic Missiles,Unknown,Kherson,Unknown,2,0,
-10/30/2024 18:30,10/31/2024 8:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Oryol oblast,Ukraine,Unknown,43,17,23
 10/30/2024 18:30,10/31/2024 8:00,Ballistic Missiles,Rostov oblast,Kramatorsk,Unknown,2,0,
 10/30/2024 18:30,10/30/2024 20:30,Cruise Missiles,Black Sea,Odesa oblast,Unknown,8,2,
 10/30/2024 18:30,10/30/2024 20:30,Ballistic Missiles,Crimea,Odesa oblast,Unknown,2,0,
 10/29/2024 20:00,10/30/2024 7:00,Unknown Missile,Belgorod oblast,Sumy oblast,Unknown,1,0,
-10/29/2024 20:00,10/30/2024 7:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Oryol oblast,Ukraine,Unknown,62,33,25
 10/30/2024,10/30/2024,Unknown UAV,Unknown,south,Unknown,1,1,
 10/30/2024,10/30/2024,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
 10/30/2024,10/30/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,9,9,
-10/28/2024 22:00,10/29/2024 9:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Oryol oblast,Ukraine,Unknown,48,26,20
 10/28/2024 22:00,10/29/2024 9:00,Ballistic Missiles,Crimea,Kryvyi Rih,Unknown,1,0,
 10/28/2024 19:00,10/29/2024,Cruise Missiles,Black Sea,Odesa oblast,Su-30,2,0,2
 10/28/2024 19:00,10/29/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 10/28/2024 19:00,10/29/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,5,5,
-10/27/2024 19:00,10/28/2024 10:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,Unknown,100,66,24
-10/26/2024 21:00,10/27/2024 9:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Kyiv oblast and Odesa oblast,Unknown,80,41,32
 10/27/2024,10/27/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 10/27/2024,10/27/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
-10/25/2024 19:00,10/26/2024 12:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Oryol oblast,Ukraine,Unknown,91,44,44
 10/26/2024,10/26/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 10/26/2024,10/26/2024,Ballistic Missiles,Crimea,Odesa oblast,Unknown,1,1,
 10/25/2024 21:00,10/25/2024 23:00,Cruise Missiles,Bryansk oblast,Dnipro and Sumy oblast,Unknown,2,0,
 10/25/2024 21:00,10/25/2024 23:00,Unknown Missile,Belgorod oblast,Dnipro and Sumy oblast,Unknown,2,0,
 10/25/2024 21:00,10/25/2024 23:00,Ballistic Missiles,Crimea,Dnipro and Sumy oblast,Unknown,3,0,
-10/24/2024 23:00,10/25/2024 10:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Kyiv oblast and Odesa oblast,Unknown,63,36,16
 10/23/2024 21:00,10/24/2024 8:30,Cruise Missiles,Bryansk oblast,east,Unknown,2,0,
 10/23/2024 21:00,10/24/2024 8:30,Cruise Missiles,Unknown,south,Unknown,2,0,
-10/23/2024 21:00,10/24/2024 8:30,Loitering Munition (Kamikaze Drones),Crimea and Kursk oblast and Oryol oblast,Ukraine,Unknown,50,40,7
 10/22/2024 22:00,10/23/2024 9:00,Cruise Missiles,Black Sea,Odesa oblast,Unknown,1,0,
-10/22/2024 22:00,10/23/2024 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast,Ukraine,Unknown,81,57,15
 10/23/2024,10/23/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 10/23/2024,10/23/2024,Cruise Missiles,Unknown,south,Unknown,1,1,
 10/23/2024,10/23/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
-10/21/2024 20:00,10/22/2024 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Yeysk,Ukraine,Unknown,60,42,10
 10/22/2024,10/22/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 10/20/2024 20:00,10/21/2024 9:30,Cruise Missiles,Black Sea,Odesa oblast,Unknown,1,0,
 10/20/2024 20:00,10/21/2024 9:30,Cruise Missiles,Black Sea,Odesa oblast,Unknown,1,0,
-10/20/2024 20:00,10/21/2024 9:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,Unknown,116,59,45
 10/20/2024 20:00,10/21/2024 9:30,Ballistic Missiles,Crimea,south,Unknown,1,0,
-10/19/2024 21:00,10/20/2024 10:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Yeysk,Ukraine,Unknown,49,31,17
 10/19/2024 21:00,10/20/2024 10:00,Ballistic Missiles,Crimea,Kryvyi Rih,Unknown,2,0,
 10/18/2024 21:00,10/19/2024 12:00,Cruise Missiles,Black Sea,Odesa oblast,Unknown,6,4,
-10/18/2024 21:00,10/19/2024 12:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Yeysk,Ukraine,Unknown,98,42,46
-10/17/2024 20:00,10/18/2024 8:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,Unknown,135,80,44
 10/16/2024 19:30,10/17/2024 5:00,Cruise Missiles,Kursk oblast,Ukraine,Unknown,1,0,
-10/16/2024 19:30,10/17/2024 5:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,Unknown,56,22,27
 10/15/2024 19:00,10/16/2024 7:00,Cruise Missiles,Kursk oblast,Chernihiv oblast,Unknown,1,0,
-10/15/2024 19:00,10/16/2024 7:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,Unknown,136,68,64
 10/15/2024 19:00,10/16/2024 7:00,Surface-to-Air Missiles (SAM),Donetsk oblast,Donetsk oblast,Unknown,1,0,
 10/15/2024,10/15/2024 8:00,Cruise Missiles,Kursk oblast,Chernihiv oblast and Sumy oblast,Unknown,2,0,
-10/15/2024,10/15/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast,Ukraine,Unknown,17,12,4
 10/15/2024,10/15/2024 8:00,Surface-to-Air Missiles (SAM),Crimea,Mykolaiv oblast,Unknown,7,0,
 10/15/2024,10/15/2024,Unknown Missile,Crimea,Mykolaiv oblast,Unknown,1,0,
 10/15/2024,10/15/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
@@ -313,16 +217,13 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 10/15/2024,10/15/2024,Aerial Bomb,Unknown,Kherson oblast,Unknown,16,0,
 10/14/2024,10/14/2024,Ballistic Missiles,Crimea,Odesa oblast,Unknown,1,0,
 10/13/2024,10/13/2024 8:00,Cruise Missiles,Kursk oblast,Chernihiv oblast and Sumy oblast,Unknown,2,0,
-10/13/2024,10/13/2024 8:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Oryol oblast,Ukraine,Unknown,68,31,36
 10/13/2024,10/13/2024 8:00,Ballistic Missiles,Kursk oblast,Poltava oblast,Unknown,1,0,
 10/13/2024,10/13/2024 8:00,Ballistic Missiles,Crimea,Odesa oblast,Unknown,1,0,
 10/12/2024,10/12/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast,Ukraine,Unknown,28,24,2
-10/11/2024,10/11/2024 11:00,Loitering Munition (Kamikaze Drones),Kursk oblast,Ukraine,Unknown,66,29,31
 10/11/2024,10/11/2024 8:00,Cruise Missiles,Crimea,south,Unknown,1,0,
 10/11/2024,10/11/2024 8:00,Ballistic Missiles,Crimea,south,Unknown,1,0,
 10/9/2024 19:00,10/10/2024 10:10,Cruise Missiles,Crimea,Mykolaiv oblast,Unknown,2,0,
 10/9/2024 19:00,10/10/2024 10:10,Cruise Missiles,Crimea,Odesa oblast,Unknown,1,0,
-10/9/2024 19:00,10/10/2024 10:10,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast,Ukraine,Unknown,62,41,14
 10/9/2024 19:00,10/10/2024 10:10,Ballistic Missiles,Crimea,Odesa oblast,Unknown,2,0,
 10/9/2024 19:00,10/10/2024 10:10,Surface-to-Air Missiles (SAM),Donetsk oblast,east,Unknown,3,0,
 10/10/2024,10/10/2024,Reconnaissance UAVs,Unknown,south,Unknown,4,4,
@@ -340,22 +241,16 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 10/7/2024 8:20,10/7/2024 8:30,Hypersonic Missiles,Tambov oblast,Kyiv oblast and Starokostiantyniv,3 x MiG-31K,3,2,
 10/6/2024 20:00,10/7/2024 8:30,Cruise Missiles,Unknown,Ukraine,Unknown,1,0,
 10/6/2024 20:00,10/7/2024 8:30,Unknown Missile,Unknown,Ukraine,Unknown,1,0,
-10/6/2024 20:00,10/7/2024 8:30,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast and Yeysk,Ukraine,Unknown,74,32,37
 10/6/2024 20:00,10/7/2024 8:30,Ballistic Missiles,Unknown,Ukraine,Unknown,1,0,
-10/5/2024 19:00,10/6/2024 9:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,Unknown,87,56,25
 10/5/2024 19:00,10/6/2024 7:00,Cruise Missiles,Unknown,Ukraine,Unknown,1,1,
 10/5/2024 19:00,10/6/2024 7:00,Ballistic Missiles,Crimea,Odesa oblast,Unknown,2,0,
 10/5/2024 19:00,10/6/2024 7:00,Cruise Missiles,Unknown,Ukraine,Unknown,1,1,
 10/5/2024,10/5/2024 8:00,Cruise Missiles,Crimea and Kursk oblast,Ukraine,Unknown,3,0,3
-10/5/2024,10/5/2024 8:00,Loitering Munition (Kamikaze Drones),"Chauda, Crimea and Kursk oblast",Ukraine,,13,3,10
 10/5/2024,10/5/2024,Reconnaissance UAVs,Unknown,south,Unknown,3,3,
-10/4/2024,10/4/2024 8:00,Loitering Munition (Kamikaze Drones),"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast",Ukraine,,19,9,7
-10/2/2024 21:00,10/3/2024 7:00,Loitering Munition (Kamikaze Drones),"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast and Oryol oblast",Ukraine,,105,78,23
 10/3/2024,10/3/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 10/3/2024,10/3/2024,Cruise Missiles,Crimea,Odesa oblast,Unknown,1,0,
 10/3/2024,10/3/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 10/3/2024,10/3/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
-10/2/2024,10/2/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast,Ukraine,Unknown,32,11,10
 10/1/2024 12:00,10/1/2024 12:00,Ballistic Missiles,Crimea,Odesa oblast,Unknown,1,0,
 10/1/2024,10/1/2024 8:00,Loitering Munition (Kamikaze Drones),"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast",Ukraine,,32,29,3
 10/1/2024,10/1/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
@@ -366,7 +261,6 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 9/29/2024 19:00,9/30/2024 8:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Oryol oblast and Yeysk,Ukraine,Unknown,73,67,3
 9/29/2024 19:00,9/30/2024 8:00,Ballistic Missiles,Crimea,Ukraine,Unknown,1,0,
 9/30/2024,9/30/2024,Ballistic Missiles,Crimea,Kherson oblast,Unknown,2,0,
-9/29/2024,9/29/2024 8:00,Loitering Munition (Kamikaze Drones),"Chauda, Crimea and Kursk oblast and Yeysk",Ukraine,,22,15,5
 9/28/2024 7:30,9/28/2024 8:30,Loitering Munition (Kamikaze Drones),Unknown,Sumy oblast,Unknown,3,1,
 9/27/2024 19:00,9/28/2024 8:00,Cruise Missiles,Zaporizhzhia oblast,Ukraine,Unknown,2,2,
 9/27/2024 19:00,9/28/2024 8:00,Loitering Munition (Kamikaze Drones),"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast and Oryol oblast",Ukraine,,73,69,3
@@ -379,17 +273,14 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 9/26/2024 10:00,9/26/2024 11:00,Hypersonic Missiles,Unknown,Starokostiantyniv,4 x MiG-31K,3,0,
 9/26/2024,9/26/2024 8:00,Cruise Missiles,Black Sea,Odesa oblast,Unknown,4,4,
 9/26/2024,9/26/2024 8:00,Unknown Missile,Unknown,Sumy oblast,Unknown,2,0,
-9/26/2024,9/26/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Oryol oblast,Ukraine,Unknown,78,66,8
 9/25/2024,9/25/2024 8:00,Cruise Missiles,Black Sea,Odesa oblast,Unknown,4,4,
 9/25/2024,9/25/2024 8:00,Unknown Missile,Unknown,Kharkiv oblast,Unknown,3,0,
-9/25/2024,9/25/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast,Ukraine,Unknown,32,28,4
 9/25/2024,9/25/2024 8:00,Surface-to-Air Missiles (SAM),Unknown,Kharkiv oblast,Unknown,1,0,
 9/25/2024,9/25/2024,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
 9/25/2024,9/25/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 9/25/2024,9/25/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 9/23/2024 20:00,9/24/2024 7:00,Cruise Missiles,Bryansk oblast,Ukraine,Unknown,1,0,
 9/23/2024 20:00,9/24/2024 7:00,Unknown Missile,Kursk oblast,Ukraine,Unknown,1,0,
-9/23/2024 20:00,9/24/2024 7:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast,north and center,Unknown,81,66,13
 9/23/2024 20:00,9/24/2024 7:00,Ballistic Missiles,Rostov oblast,Ukraine,Unknown,1,0,
 9/24/2024,9/24/2024,Reconnaissance UAVs,Unknown,south,Unknown,4,4,
 9/24/2024,9/24/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
@@ -397,13 +288,10 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 9/23/2024,9/23/2024 8:00,Cruise Missiles,Unknown,Ukraine,Unknown,2,0,2
 9/23/2024,9/23/2024 8:00,Loitering Munition (Kamikaze Drones),Unknown,Sumy oblast,Unknown,4,3,1
 9/22/2024,9/22/2024 8:00,Cruise Missiles,Luhansk oblast,east,Unknown,2,0,
-9/22/2024,9/22/2024 8:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Yeysk,Ukraine,Unknown,80,71,6
 9/21/2024,9/21/2024 8:00,Cruise Missiles,Zaporizhzhia oblast,east,Unknown,5,5,
-9/21/2024,9/21/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast,Ukraine,Unknown,16,11,5
 9/21/2024,9/21/2024 8:00,Ballistic Missiles,Crimea and Rostov oblast,Dnipropetrovsk oblast,Unknown,4,0,
 9/20/2024,9/20/2024 8:00,Cruise Missiles,Zaporizhzhia oblast,Dnipropetrovsk oblast,Unknown,1,1,
 9/20/2024,9/20/2024 8:00,Unknown Missile,Unknown,Donetsk oblast,Unknown,3,0,
-9/20/2024,9/20/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Yeysk,Ukraine,Unknown,70,61,9
 9/20/2024,9/20/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 9/20/2024,9/20/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,7,7,
 9/20/2024,9/20/2024,Ballistic Missiles,Crimea,Odesa oblast,Unknown,1,0,
@@ -413,8 +301,6 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 9/19/2024,9/19/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 9/19/2024,9/19/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 9/18/2024,9/18/2024 8:00,Cruise Missiles,Kherson oblast,Mykolaiv oblast,Unknown,3,0,3
-9/18/2024,9/18/2024 8:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Yeysk,Ukraine,Unknown,52,46,5
-9/16/2024 19:00,9/17/2024 6:00,Loitering Munition (Kamikaze Drones),"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast",Ukraine,,51,34,12
 9/15/2024 20:00,9/16/2024 6:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Yeysk,Ukraine,Unknown,56,53,3
 9/15/2024,9/15/2024 8:00,Cruise Missiles,Zaporizhzhia oblast,Ukraine,Unknown,1,1,
 9/15/2024,9/15/2024 8:00,Loitering Munition (Kamikaze Drones),"Chauda, Crimea and Kursk oblast",Ukraine,,14,10,
@@ -435,7 +321,6 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 9/12/2024,9/12/2024,Ballistic Missiles,Crimea,Odesa oblast,Unknown,1,1,
 9/11/2024,9/11/2024 8:00,Cruise Missiles,Bryansk oblast,Chernihiv oblast,Unknown,1,0,
 9/11/2024,9/11/2024 8:00,Cruise Missiles,Black Sea,Snake Island,Unknown,6,0,
-9/11/2024,9/11/2024 8:00,Loitering Munition (Kamikaze Drones),"Chauda, Crimea and Kursk oblast and Yeysk",Ukraine,,25,20,5
 9/11/2024,9/11/2024 8:00,Ballistic Missiles,Krasnodar Krai,Ukraine,Unknown,1,0,
 9/11/2024,9/11/2024 8:00,Surface-to-Air Missiles (SAM),Donetsk oblast,east,Unknown,2,0,
 9/10/2024,9/10/2024 8:00,Cruise Missiles,Black Sea,Snake Island,Unknown,1,0,
@@ -456,18 +341,14 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 9/7/2024,9/7/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,2,2,
 9/6/2024,9/6/2024 8:00,Cruise Missiles,Unknown,Ukraine,Unknown,1,0,
 9/6/2024,9/6/2024 8:00,Cruise Missiles,Bryansk oblast,Ukraine,Unknown,1,0,
-9/6/2024,9/6/2024 8:00,Loitering Munition (Kamikaze Drones),"Primorsko-Akhtarsk and Chauda, Crimea and Kursk oblast",Ukraine,,44,27,8
 9/6/2024,9/6/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 9/6/2024,9/6/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,1,1,
-9/5/2024,9/5/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Yeysk,Ukraine,Unknown,78,60,15
 9/5/2024,9/5/2024 8:00,Ballistic Missiles,Crimea,Ukraine,Unknown,1,0,
-9/3/2024 22:30,9/4/2024 8:00,Loitering Munition (Kamikaze Drones),Kursk oblast,Ukraine,Unknown,29,22,6
 9/4/2024 5:30,9/4/2024 6:20,Cruise Missiles,Black Sea,"Odesa oblast, Black Sea",Tu-22M3,2,0,2
 9/4/2024 5:50,9/4/2024 6:10,Cruise Missiles,Crimea,Kryvyi Rih,Unknown,3,3,
 9/4/2024 4:00,9/4/2024 6:00,Cruise Missiles,Volgograd oblast,Ukraine,Tu-95MS,6,4,
 9/4/2024 5:40,9/4/2024 5:50,Hypersonic Missiles,Tula oblast,Lviv oblast,MiG-31K,2,0,
 9/3/2024,9/3/2024 8:00,Cruise Missiles,Kursk oblast,Ukraine,Unknown,1,0,
-9/3/2024,9/3/2024 8:00,Loitering Munition (Kamikaze Drones),"Chauda, Crimea and Kursk oblast",Ukraine,,35,27,6
 9/3/2024,9/3/2024 8:00,Ballistic Missiles,Crimea,Ukraine,Unknown,3,0,
 9/2/2024,9/2/2024 8:00,Cruise Missiles,Volgograd oblast,Ukraine,Unknown,14,13,1
 9/2/2024,9/2/2024 8:00,Unknown Missile,Belgorod oblast,Ukraine,Unknown,1,0,
@@ -481,7 +362,6 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 9/1/2024,9/1/2024 8:00,Loitering Munition (Kamikaze Drones),"Chauda, Crimea",Ukraine,,11,8,
 9/1/2024,9/1/2024 8:00,Ballistic Missiles,Kursk oblast,Ukraine,Unknown,1,0,
 8/31/2024 11:00,8/31/2024 11:00,Reconnaissance UAVs,Unknown,Kursk oblast,Unknown,1,1,
-8/31/2024,8/31/2024 8:00,Loitering Munition (Kamikaze Drones),Kursk oblast,Ukraine,Unknown,52,24,25
 8/31/2024,8/31/2024 8:00,Ballistic Missiles,Voronezh oblast,Ukraine,Unknown,1,0,
 8/31/2024,8/31/2024 8:00,Surface-to-Air Missiles (SAM),Donetsk oblast,Ukraine,Unknown,4,0,
 8/31/2024,8/31/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,4,4,
@@ -490,7 +370,6 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 8/29/2024,8/29/2024 8:00,Cruise Missiles,Belgorod oblast and Kursk oblast,Ukraine,Unknown,3,2,
 8/29/2024,8/29/2024 8:00,Unknown Missile,Belgorod oblast and Kursk oblast,Ukraine,Unknown,2,0,
 8/29/2024,8/29/2024 8:00,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
-8/29/2024,8/29/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Yeysk,Ukraine,Unknown,74,60,14
 8/29/2024,8/29/2024 8:00,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 8/29/2024,8/29/2024 8:00,Ballistic Missiles,Crimea,Odesa oblast,Unknown,1,0,
 8/29/2024,8/29/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
@@ -498,7 +377,6 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 8/28/2024,8/28/2024,Loitering Munition (Kamikaze Drones),Unknown,south,Unknown,2,2,
 8/27/2024,8/27/2024 9:00,Hypersonic Missiles,Lipetsk oblast,Ukraine,MIG-31K,3,0,
 8/27/2024,8/27/2024 9:00,Cruise Missiles,Volgograd oblast,Ukraine,Tu-95MS,5,5,
-8/27/2024,8/27/2024 9:00,Loitering Munition (Kamikaze Drones),Kursk oblast and Yeysk,Ukraine,Unknown,81,60,10
 8/27/2024,8/27/2024 9:00,Ballistic Missiles,Crimea,Ukraine,Unknown,1,0,
 8/27/2024,8/27/2024 9:00,Cruise Missiles,Voronezh oblast,Ukraine,Unknown,1,0,
 8/26/2024 3:00,8/26/2024 18:00,Hypersonic Missiles,Ryazan oblast and Lipetsk oblast,Ukraine,Unknown,3,1,
@@ -523,7 +401,6 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 8/22/2024,8/22/2024 11:15,Ballistic Missiles,Belgorod oblast,Ukraine,Unknown,1,0,
 8/22/2024,8/22/2024 11:15,Ballistic Missiles,Crimea,Mykolaiv oblast,Unknown,1,0,
 8/21/2024,8/21/2024 11:15,Cruise Missiles,Kursk oblast,Ukraine,Unknown,1,1,
-8/21/2024,8/21/2024 11:15,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast and Yeysk,Ukraine,Unknown,69,50,16
 8/21/2024,8/21/2024 11:15,Ballistic Missiles,Voronezh oblast,Ukraine,Unknown,2,0,
 8/21/2024,8/21/2024,Reconnaissance UAVs,Unknown,south,Unknown,1,1,
 8/21/2024,8/21/2024,Reconnaissance UAVs,Unknown,south,Unknown,3,3,
@@ -720,7 +597,6 @@ time_start,time_end,model,launch_place,target,carrier,launched,destroyed,not_rea
 7/13/2024,7/13/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk,Ukraine,Unknown,5,4,1
 7/13/2024,7/13/2024,Reconnaissance UAVs,Unknown,south,Unknown,2,2,
 7/13/2024,7/13/2024,Ballistic Missiles,Crimea,Odesa oblast,Unknown,1,0,
-7/12/2024,7/12/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk and Kursk oblast,Ukraine,Unknown,19,11,8
 7/12/2024,7/12/2024,Reconnaissance UAVs,Unknown,south,Unknown,3,3,
 7/11/2024 20:30,7/11/2024 21:30,Cruise Missiles,Saratov oblast,Ukraine,Unknown,5,5,
 7/11/2024,7/11/2024 8:00,Loitering Munition (Kamikaze Drones),Primorsko-Akhtarsk,Ukraine,Unknown,6,6,
